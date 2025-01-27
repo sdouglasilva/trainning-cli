@@ -70,7 +70,7 @@ header > .interface{
 
 
 header a{
-    color: rgb(238, 237, 255);
+    color: rgb(112, 112, 59);
     text-decoration: none;
     display: inline-block;
     transition: .1s;
@@ -101,7 +101,7 @@ section.topo-do-site .flex{
 }
 
 .topo-do-site .txt-topo-site h1{
-    color: rgb(255, 255, 255);
+    color: rgb(234, 189, 189);
     font-size: 30px;
     text-align: center;
 }
@@ -123,6 +123,13 @@ section.topo-do-site .flex{
     text-align: justify;
     font-size: 22px;
     line-height: 1.2;
+}
+
+.topo-do-site p {
+    background-color: blueviolet;
+    padding: 50px;
+    border: 2px solid rgb(255, 208, 0);
+    border-radius: 10px;
 }
 
 /* imagem*/
